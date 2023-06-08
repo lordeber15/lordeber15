@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Eberson Palomino</h1>
 <h3 align="center">Full Stack developer from Perú</h3>
 
+<p>I am a Full Stack Developer with a background in systems engineering and information, which has strengthened my skills in analysis and teamwork. I specialize in Front-End development and have knowledge in agile methodologies, GIT, data structures, algorithms, and CSS frameworks, Javascript, Express, React, Redux, NextJS, and Sequelize for database management.
+
+Throughout my experience, I have worked on Front-End application development using React, and on the Back-End with NodeJS. This combination has allowed me to develop key skills such as versatility, empathy, teamwork, and constant and independent learning.
+
+Additionally, although my English level is basic, I am willing to continue improving my skills in that aspect.
+
+If you are in need of a Full Stack developer capable of tackling challenges in both the Front-End and Back-End, along with a mindset of constant learning and strong teamwork skills, I would be delighted to contribute to your team.
+
+I am excited about the opportunities that web development has to offer and eager to continue growing as a professional in this field!</p>
+
 - 🌱 I’m currently learning **Oracle, Java, Typescrip,**
 
 - 💬 Ask me about **React, Javascript, Readux**
@@ -8,6 +18,7 @@
 - 📫 How to reach me **eberpalomino@hotmail.com**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
